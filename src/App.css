@@ -40,3 +40,22 @@
 .read-the-docs {
   color: #888;
 }
+.todo{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  color: white;}
+ul li{
+  list-style-type: none;
+  margin: 20px;
+  padding: 10px;
+  gap: 10px;
+  }
+body{
+  background-image: url("https://img.freepik.com/vector-gratis/fondo-luces-neon-realista_23-2148907332.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover
+  
+}
